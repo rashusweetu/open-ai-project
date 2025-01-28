@@ -2,3 +2,11 @@ langchain
 python-dotenv
 ipykernel
 langchain_community
+Arxiv
+wikipedia
+langchain_openai
+chromadb
+Sentence_transformers
+Langchain_huggingface
+faiss-cpu
+langchain_chroma
